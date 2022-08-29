@@ -1,3 +1,4 @@
 print("Bem vindo ao gerador de nome de banda")
 cidade = input(str("Insira o nome da sua cidade natal.\n"))
-print(f"Você mora em {cidade}")
+pet = input(str("Insira o nome do seu animal de estimação.\n"))
+print(f"O nome da sua banda pode ser {pet} de {cidade}")
